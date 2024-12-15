@@ -18,9 +18,13 @@
 
 게다가, 중간중간 실무의 경험이 흥미롭게 다가오더군요. 물론 어려운 부분에 대해선 열심히 공식문서를 살피고 구글링하는건 여전합니다^^ 그래도 주변에도 추천해주고 싶은 강의 중 하나라는 생각이 드네요.
 
-<html><img src="img/수강이미지.jpg", height="100px", width="200px"></html>
-<html><img src="img/수강이미지2.jpg", height="100px", width="200px"></html>
-<html><img src="img/수강이미지3.jpg", height="100px", width="200px"></html>
+<html>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <img src="img/수강이미지.jpg" alt="이미지 1" style="width: 33%; height: auto;">
+        <img src="img/수강이미지2.jpg" alt="이미지 2" style="width: 33%; height: auto;">
+        <img src="img/수강이미지3.jpg" alt="이미지 3" style="width: 33%; height: auto;">
+    </div>
+</html>
 
 <!-- ![수강 이미지](img/수강이미지.jpg "하얀 강아지") -->
 
