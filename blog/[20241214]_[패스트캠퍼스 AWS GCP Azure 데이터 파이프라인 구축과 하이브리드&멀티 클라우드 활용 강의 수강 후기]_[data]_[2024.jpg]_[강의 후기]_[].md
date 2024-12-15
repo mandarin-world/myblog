@@ -22,13 +22,13 @@
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <figure style="width: 45%; text-align: center; margin: 0;">
          <img src="img/수강이미지.jpg" alt="이미지 1" style="width: 100%; height: auto;">
-         <figcaption style="margin-top: 8px; font-size: 14px; color: gray;">
+         <figcaption style="margin-top: 2px; font-size: 14px; color: gray;">
             수강화면
          </figcaption>
       </figure>
       <figure style="width: 45%; text-align: center; margin: 0;">
          <img src="img/수강이미지2.jpg" alt="이미지 1" style="width: 100%; height: auto;">
-         <figcaption style="margin-top: 8px; font-size: 14px; color: gray;">
+         <figcaption style="margin-top: 2px; font-size: 14px; color: gray;">
             필기화면
          </figcaption>
       </figure>
@@ -36,7 +36,7 @@
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <figure style="width: 90%; text-align: center; margin: 0;">
          <img src="img/수강이미지3.jpg" alt="이미지 1" style="width: 100%; height: auto;">
-         <figcaption style="margin-top: 8px; font-size: 14px; color: gray;">
+         <figcaption style="margin-top: 2px; font-size: 14px; color: gray;">
             Azure를 활용한 데이터파이프라인 구축 (Validation 측정 후 Blob Storage->Data Lake Gen2)
          </figcaption>
       </figure>
